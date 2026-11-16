@@ -1,0 +1,7 @@
+openai-whisper
+sounddevice
+scipy
+requests
+python-dotenv
+pyttsx3
+comtypes
